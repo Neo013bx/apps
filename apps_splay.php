@@ -4,13 +4,13 @@
 
 # PERSONALIZAÇÃO
 
-$loja= "CENTRAL DE DOWNLOAD"; //Smartplay Downloads
+$loja= "SPLAY DOWNLOADS"; //Smartplay Downloads
 
-$serv= "SERVIDOR"; //NOME DO SERVIDOR
+$serv= "P2SERVER"; //NOME DO SERVIDOR
 
 $favi= "favicon.ico"; //TEXTO DE DIREITOS AUTORAIS
 
-$logo= "logo.jpg"; //LOGO DA LOJA OU SERVIDOR
+$logo= "http://3rewfds2qw.p2server.me/img/back-end/logo-dark.png"; //LOGO DA LOJA OU SERVIDOR
 
 $banner= "banner.jpg"; //FUNDO DA LOJA OU SERVIDOR
 
@@ -26,7 +26,7 @@ $app1= "ATIVO"; // DEIXE "ATIVO" PARA EXIBIR A CAIXA REFERENTE AO APLICATIVO NA 
 
 $appnome1= "APLICATIVO 01"; //NOME DO APLICATIVO 01
 
-$applink1= ""; //LINK DO APLICATIVO 01
+$applink1= "http://apk.servep2p.com/app.apk"; //LINK DO APLICATIVO 01
 
 $appimg1= "01.jpeg"; //IMAGEM DO APLICATIVO 01
 
