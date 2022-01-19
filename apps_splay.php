@@ -26,7 +26,7 @@ $app1= "ATIVO"; // DEIXE "ATIVO" PARA EXIBIR A CAIXA REFERENTE AO APLICATIVO NA 
 
 $appnome1= "APLICATIVO 01"; //NOME DO APLICATIVO 01
 
-$applink1= "http://apk.servep2p.com/app.apk"; //LINK DO APLICATIVO 01
+$applink1= "http://srvapk.07d994.co/apkp2server.apk; //LINK DO APLICATIVO 01
 
 $appimg1= "01.jpeg"; //IMAGEM DO APLICATIVO 01
 
